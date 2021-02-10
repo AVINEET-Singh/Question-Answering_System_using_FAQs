@@ -1,4 +1,4 @@
-# NLP_Project
+# Question-Answering System using FAQs
 References:
 
 1) https://xplordat.com/2019/09/23/bow-to-bert/
